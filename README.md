@@ -3,13 +3,11 @@
 This project applies unsupervised machine learning techniques to cluster different species of penguins using their physical characteristics. The dataset includes features such as culmen length, culmen depth, flipper length, body mass, and gender.
 
 ## Technologies Used
-- Python 3
 - pandas
 - matplotlib
 - scikit-learn (KMeans, PCA, StandardScaler)
 - OneHotEncoder & ColumnTransformer
 - OptimalK (gap statistic)
-- Jupyter Notebook
 
 ## Dataset
 The dataset used is `"penguins.csv"`, which contains data about penguin species found in Antarctica. Please ensure the CSV file is placed in the same directory.
